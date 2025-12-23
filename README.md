@@ -1,0 +1,1 @@
+# Disease-detection-in-pulse-crop-using-AI
